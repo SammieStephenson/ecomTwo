@@ -138,3 +138,34 @@ footer {
     border-radius: 15%;
     size-adjust: 10%;
 }
+
+.card {
+    margin-left: 50px;
+}
+
+.contact {
+    text-align: center;
+    margin-top: 40px;
+    color: whitesmoke;
+    font-size: 45pt;
+    font-family: serif, Didot;
+}
+
+.contactp {
+    text-align: center;
+    color: whitesmoke;
+    font-family: serif, Didot;
+}
+
+.form {
+    align-items: center;
+    align-content: center;
+    padding-top: 40px;
+    background-position: absolute;
+    background-color: rgba(255, 255, 255, 0.6);
+    border: 5px;
+    margin-left: 43vw;
+    margin-right: 40vw;
+    padding: 15px;
+    border-radius: 25px;
+}
