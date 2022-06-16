@@ -152,8 +152,12 @@ footer {
 }
 
 .contactp {
+    margin: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
     text-align: center;
     color: whitesmoke;
+    font-size: 20pt;
     font-family: serif, Didot;
 }
 
@@ -168,4 +172,13 @@ footer {
     margin-right: 40vw;
     padding: 15px;
     border-radius: 25px;
+}
+
+.contact-hero {
+    background-image: url('/images/Art\ Nouveau\ black.jpeg');
+    background-size: 100% 150%;
+    /* size: 50%; */
+    height: 1000px;
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
